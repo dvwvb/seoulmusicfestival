@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.seoulmusicfestival.co.kr	TRUE	/	FALSE	1999999999	PHPSESSID	p1rjf1ct83eh5r8vufc0t9n7l0
-.seoulmusicfestival.co.kr	TRUE	/	FALSE	1999999999	futurem_smf2022	futurem_smf2022ip
-

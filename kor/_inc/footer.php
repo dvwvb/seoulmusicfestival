@@ -10,47 +10,42 @@
 <footer>
 
     <div id="topBtn">
-        <img src="../../img/icon/topBtnArrow.png" alt="">
+        <img src="/img/icon/topBtnArrow.png" alt="">
         TOP
     </div>
 
     <div class="w">
-        <div class="wave" style="background-image: url(../../img/g_wave.png);"></div>
+        <div class="wave" style="background-image: url(/img/g_wave.png);"></div>
     </div>
     <div class="wrap" max="1280">
 
         <div class="sn">
             <div class="fa snn">
                 <a href="https://www.facebook.com/seoulmusicfestival" target="_blank">
-                    <img src="../../img/f_m1.png" alt="">
+                    <img src="/img/f_m1.png" alt="">
                 </a>
             </div>
             <div class="in snn">
                 <a href="https://www.instagram.com/seoulmusicfesta/" target="_blank">
-                    <img src="../../img/f_m2.png" alt="">
+                    <img src="/img/f_m2.png" alt="">
                 </a>
             </div>
         </div>
 
         <div class="c">
             <div class="l">
-                <img src="../../img/logo/smf_logoW.png" alt="">
+                <img src="/img/logo/smf_logoW.png" alt="">
             </div>
-
             <div class="rb">
-
                 <div class="add">
                     <span>주소 : 서울시 강남구 도산대로 30길 13-9</span>
                     <span>연락처:070-4170-0944</span>
                     <span>이메일 : seoulmusicfestival@gmail.com</span>
                 </div>
-
                 <div class="co">
                     Copyright © 2022 SEOUL MUSIC FESTIVAL. All right reserved.
                 </div>
-
             </div>
-
         </div>
     </div>
 

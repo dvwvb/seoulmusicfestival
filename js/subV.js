@@ -1,8 +1,5 @@
-function subV(loc,title){
-    
-    
-
-    const tamplet = `
+function subV(loc, title) {
+  const tamplet = `
     <div class="tbx">
         <dl>
             <dt data-aos="fade-up">${loc}</dt>
@@ -26,7 +23,7 @@ function subV(loc,title){
     </div>
     `;
 
-    /*
+  /*
     let ob;
 
     if(window.location.pathname.split('/')[2] == 'community'){
@@ -52,8 +49,7 @@ function subV(loc,title){
     }
     */
 
-    $('.__sv').append(tamplet);
+  $(".__sv").append(tamplet);
 
-    // $('.__sv .ob').append(ob);
-
+  // $('.__sv .ob').append(ob);
 }

@@ -37,24 +37,24 @@
                 </ul>
             </li>
             <li>
-                <a href="/kor/lineup/lineup_1013.html">라인업</a>
+                <a href="/kor/lineup/lineup_1013.php">라인업</a>
                 <ul class="lnb">
                     <li>
-                        <a href="/kor/lineup/lineup_1013.html">라인업</a>
+                        <a href="/kor/lineup/lineup_1013.php">라인업</a>
                     </li>
                 </ul>
             </li>
             <li>
-                <a href="/kor/program/main_stage.html">프로그램</a>
+                <a href="/kor/program/main_stage.php">프로그램</a>
                 <ul class="lnb">
                     <li>
-                        <a href="/kor/program/main_stage.html">MAIN STAGE</a>
+                        <a href="/kor/program/main_stage.php">MAIN STAGE</a>
                     </li>
                     <li>
-                        <a href="/kor/program/sub_stage.html">SUB STAGE</a>
+                        <a href="/kor/program/sub_stage.php">SUB STAGE</a>
                     </li>
                     <li>
-                        <a href="/kor/program/side_event.html">부대 프로그램</a>
+                        <a href="/kor/program/side_event.php">부대 프로그램</a>
                     </li>
                 </ul>
             </li>

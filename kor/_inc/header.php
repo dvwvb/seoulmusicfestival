@@ -20,19 +20,19 @@
                 <a href="../index.html">HOME</a>
             </li>
             <li>
-                <a href="outline.html">SMUF 소개</a>
+                <a href="outline.php">SMUF 소개</a>
                 <ul class="lnb">
                     <li>
-                        <a href="outline.html">행사 개요</a>
+                        <a href="outline.php">행사 개요</a>
                     </li>
                     <li>
-                        <a href="schedule.html">일정표</a>
+                        <a href="schedule.php">일정표</a>
                     </li>
                     <li>
-                        <a href="map.html">Map</a>
+                        <a href="map.php">Map</a>
                     </li>
                     <li>
-                        <a href="location.html">오시는 길</a>
+                        <a href="location.php">오시는 길</a>
                     </li>
                 </ul>
             </li>

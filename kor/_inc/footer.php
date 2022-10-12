@@ -1,15 +1,6 @@
-<script charset="UTF-8" class="daum_roughmap_loader_script" src="../../../ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-
-<script charset="UTF-8">
-    new daum.roughmap.Lander({
-        "timestamp": "1662429907801",
-        "key": "2bmk8",
-    }).render();
-</script>
-
-<script src="../../js/tap.js"></script>
-<script src="../../js/subV.js"></script>
-<script src="../../../unpkg.com/aos%402.3.1/dist/aos.js"></script>
+<script src="/js/tap.js"></script>
+<script src="/js/subV.js"></script>
+<script src="https://unpkg.com/aos%402.3.1/dist/aos.js"></script>
 
 <script>
     subV('SMUF 소개', '오시는길');

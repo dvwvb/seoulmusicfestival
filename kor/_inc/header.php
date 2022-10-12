@@ -4,12 +4,12 @@
         <ul class="logo">
             <li>
                 <a href="https://seoulbeautymonth.or.kr/" target="_blank">
-                    <img src="../../img/logo/logo.png" alt="">
+                    <img src="/img/logo/logo.png" alt="">
                 </a>
             </li>
             <li>
                 <a href="https://www.seoul.go.kr/main/index.jsp" target="_blank">
-                    <img src="../../img/logo/seoul_logoW.png" alt="">
+                    <img src="/img/logo/seoul_logoW.png" alt="">
                 </a>
             </li>
         </ul>
@@ -17,113 +17,101 @@
 
         <ul class="gnb">
             <li>
-                <a href="../index.html">HOME</a>
+                <a href="/">HOME</a>
             </li>
             <li>
-                <a href="outline.php">SMUF 소개</a>
+                <a href="/kor/about/outline.php">SMUF 소개</a>
                 <ul class="lnb">
                     <li>
-                        <a href="outline.php">행사 개요</a>
+                        <a href="/kor/about/outline.php">행사 개요</a>
                     </li>
                     <li>
-                        <a href="schedule.php">일정표</a>
+                        <a href="/kor/about/schedule.php">일정표</a>
                     </li>
                     <li>
-                        <a href="map.php">Map</a>
+                        <a href="/kor/about/map.php">Map</a>
                     </li>
                     <li>
-                        <a href="location.php">오시는 길</a>
+                        <a href="/kor/about/location.php">오시는 길</a>
                     </li>
                 </ul>
             </li>
-
             <li>
-                <a href="../lineup/lineup_1013.html">라인업</a>
+                <a href="/kor/lineup/lineup_1013.html">라인업</a>
                 <ul class="lnb">
                     <li>
-                        <a href="../lineup/lineup_1013.html">라인업</a>
+                        <a href="/kor/lineup/lineup_1013.html">라인업</a>
                     </li>
                 </ul>
             </li>
-
             <li>
-                <a href="../program/main_stage.html">프로그램</a>
+                <a href="/kor/program/main_stage.html">프로그램</a>
                 <ul class="lnb">
                     <li>
-                        <a href="../program/main_stage.html">MAIN STAGE</a>
+                        <a href="/kor/program/main_stage.html">MAIN STAGE</a>
                     </li>
                     <li>
-                        <a href="../program/sub_stage.html">SUB STAGE</a>
+                        <a href="/kor/program/sub_stage.html">SUB STAGE</a>
                     </li>
                     <li>
-                        <a href="../program/side_event.html">부대 프로그램</a>
+                        <a href="/kor/program/side_event.html">부대 프로그램</a>
                     </li>
                 </ul>
             </li>
-
             <li>
-                <a href="../gallery/gallery.html">갤러리</a>
+                <a href="/kor/gallery/gallery.html">갤러리</a>
                 <ul class="lnb">
                     <li>
-                        <a href="../gallery/gallery.html">SMUF 2022</a>
+                        <a href="/kor/gallery/gallery.html">SMUF 2022</a>
                     </li>
                     <li>
-                        <a href="../gallery/smuf2019.html">SMUF 2019</a>
+                        <a href="/kor/gallery/smuf2019.html">SMUF 2019</a>
                     </li>
                 </ul>
             </li>
-
             <li>
-                <a href="../community/notice.html">커뮤니티</a>
+                <a href="/kor/community/notice.html">커뮤니티</a>
                 <ul class="lnb">
                     <li>
-                        <a href="../community/notice.html">공지사항</a>
+                        <a href="/kor/community/notice.html">공지사항</a>
                     </li>
                     <li>
-                        <a href="../community/inquiry.html">문의하기</a>
+                        <a href="/kor/community/inquiry.html">문의하기</a>
                     </li>
                     <li>
-                        <a href="../community/faq.html">FAQ</a>
+                        <a href="/kor/community/faq.html">FAQ</a>
                     </li>
                 </ul>
             </li>
-
         </ul>
 
-
         <div class="l_m">
-
-
             <div class="loc">
-                <p>KOR <img src="../../img/icon/sh01.png" alt=""></p>
+                <p>KOR <img src="/img/icon/sh01.png" alt=""></p>
                 <ul class="hover">
-                    <li><a href="../../eng/index.html">ENG</a></li>
-                    <li><a href="../index.html">KOR</a></li>
+                    <li><a href="/kor/../eng/index.html">ENG</a></li>
+                    <li><a href="/kor/index.html">KOR</a></li>
                 </ul>
             </div>
-
-
-
             <div class="m_m">
                 <span></span>
                 <span></span>
                 <span></span>
             </div>
-
         </div>
 
     </div>
 
     <div class="overBg">
         <div class="wrap" max="1280">
-            <img src="../../img/header_img.png" alt="">
+            <img src="/img/header_img.png" alt="">
         </div>
     </div>
 
     <div class="mobHeader">
         <ul class="depth1">
             <li>
-                <a href="../index.html">HOME</a>
+                <a href="/kor/index.html">HOME</a>
             </li>
             <li>
                 <p><a href="outline.html">SMUF 소개</a> <i class="ri-add-line"></i></>
@@ -144,52 +132,52 @@
             </li>
 
             <li>
-                <p><a href="../lineup/lineup_1013.html">라인업</a> <i class="ri-add-line"></i></p>
+                <p><a href="/kor/lineup/lineup_1013.html">라인업</a> <i class="ri-add-line"></i></p>
                 <ul class="depth2">
                     <li>
-                        <a href="../lineup/lineup_1013.html">라인업</a>
+                        <a href="/kor/lineup/lineup_1013.html">라인업</a>
                     </li>
                 </ul>
             </li>
 
             <li>
-                <p><a href="../program/main_stage.html">프로그램</a> <i class="ri-add-line"></i></p>
+                <p><a href="/kor/program/main_stage.html">프로그램</a> <i class="ri-add-line"></i></p>
                 <ul class="depth2">
                     <li>
-                        <a href="../program/main_stage.html">MAIN STAGE</a>
+                        <a href="/kor/program/main_stage.html">MAIN STAGE</a>
                     </li>
                     <li>
-                        <a href="../program/sub_stage.html">SUB STAGE</a>
+                        <a href="/kor/program/sub_stage.html">SUB STAGE</a>
                     </li>
                     <li>
-                        <a href="../program/side_event.html">부대 프로그램</a>
+                        <a href="/kor/program/side_event.html">부대 프로그램</a>
                     </li>
                 </ul>
             </li>
 
             <li>
-                <p><a href="../gallery/gallery.html">갤러리</a> <i class="ri-add-line"></i></p>
+                <p><a href="/kor/gallery/gallery.html">갤러리</a> <i class="ri-add-line"></i></p>
                 <ul class="depth2">
                     <li>
-                        <a href="../gallery/gallery.html">SMUF 2022</a>
+                        <a href="/kor/gallery/gallery.html">SMUF 2022</a>
                     </li>
                     <li>
-                        <a href="../gallery/smuf2019.html">SMUF 2019</a>
+                        <a href="/kor/gallery/smuf2019.html">SMUF 2019</a>
                     </li>
                 </ul>
             </li>
 
             <li>
-                <p><a href="../community/notice.html">커뮤니티</a> <i class="ri-add-line"></i></p>
+                <p><a href="/kor/community/notice.html">커뮤니티</a> <i class="ri-add-line"></i></p>
                 <ul class="depth2">
                     <li>
-                        <a href="../community/notice.html">공지사항</a>
+                        <a href="/kor/community/notice.html">공지사항</a>
                     </li>
                     <li>
-                        <a href="../community/inquiry.html">문의하기</a>
+                        <a href="/kor/community/inquiry.html">문의하기</a>
                     </li>
                     <li>
-                        <a href="../community/faq.html">FAQ</a>
+                        <a href="/kor/community/faq.html">FAQ</a>
                     </li>
                 </ul>
             </li>
@@ -199,8 +187,13 @@
 
 </header>
 
-<script src="../../js/hea.js"></script>
+<script src="/js/hea.js"></script>
 <script>
     hE.init();
 </script>
-<div class="__sv"></div>
+
+
+<?php
+if ($_SERVER['REQUEST_URI'] !== "/kor/index.php") { ?>
+    <div class="__sv"></div>
+<?php }; ?>

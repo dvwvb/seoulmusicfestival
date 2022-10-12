@@ -10,24 +10,24 @@
         <section class="s01">
             <div class="p">
                 <div class="pp p_01">
-                    <img src="../img/s1_back01.png" alt="" />
+                    <img src="/img/s1_back01.png" alt="" />
                 </div>
                 <div class="pp p_02">
-                    <img src="../img/s1_back02.png" alt="" />
+                    <img src="/img/s1_back02.png" alt="" />
                 </div>
             </div>
             <div class="firework">
                 <div class="f_01 ff">
-                    <img src="../img/firework01.png" alt="" />
+                    <img src="/img/firework01.png" alt="" />
                 </div>
                 <div class="f_02 ff">
-                    <img src="../img/firework02.png" alt="" />
+                    <img src="/img/firework02.png" alt="" />
                 </div>
                 <div class="f_03 ff">
-                    <img src="../img/firework03.png" alt="" />
+                    <img src="/img/firework03.png" alt="" />
                 </div>
                 <div class="f_04 ff">
-                    <img src="../img/firework04.png" alt="" />
+                    <img src="/img/firework04.png" alt="" />
                 </div>
             </div>
             <div class="b">
@@ -38,7 +38,7 @@
 
             <div class="tbx">
                 <div class="im">
-                    <img src="../img/s1_m1.png" alt="" />
+                    <img src="/img/s1_m1.png" alt="" />
                 </div>
                 <p>2022.10.13(목)~16(일) / 4일간</p>
                 <h2>노들섬</h2>
@@ -51,7 +51,7 @@
             </div>
             <dl class="tit">
                 <dt data-aos="fade-up" data-aos-anchor=".s02">
-                    <img src="../img/s2_m2.png" alt="" />
+                    <img src="/img/s2_m2.png" alt="" />
                 </dt>
                 <dd data-aos="fade-up" data-aos-anchor=".s02" data-aos-delay="100">
                     아름다운 감성으로 서울 일대를 가득 채울<br />뮤직 페스티벌이
@@ -87,7 +87,7 @@
                             <span>주</span>
                             <span>최</span>
                         </h2>
-                        <img src="../img/logo/seoul_logoC.png" alt="" />
+                        <img src="/img/logo/seoul_logoC.png" alt="" />
                     </li>
                     <li data-aos="fade-up" data-aos-delay="400" data-aos-anchor=".s02 .tit">
                         <h2>
@@ -106,10 +106,10 @@
 
             <div class="b">
                 <div class="b-01 bb">
-                    <img src="../img/s2_bg01.png" alt="" />
+                    <img src="/img/s2_bg01.png" alt="" />
                 </div>
                 <div class="b-02 bb">
-                    <img src="../img/s2_bg02.png" alt="" />
+                    <img src="/img/s2_bg02.png" alt="" />
                 </div>
             </div>
         </section>
@@ -121,7 +121,7 @@
 
             <div class="wrap" max="1400">
                 <h2 class="t">
-                    <img src="../img/s3_m1.png" alt="" data-aos="fade-up" data-aos-anchor=".s03" />
+                    <img src="/img/s3_m1.png" alt="" data-aos="fade-up" data-aos-anchor=".s03" />
                 </h2>
             </div>
 
@@ -198,16 +198,16 @@
         <section class="s04">
             <div class="o">
                 <div class="oo o_1">
-                    <img src="../img/s4_m1.png" alt="" />
+                    <img src="/img/s4_m1.png" alt="" />
                 </div>
                 <div class="oo o_2">
-                    <img src="../img/s4_m2.png" alt="" />
+                    <img src="/img/s4_m2.png" alt="" />
                 </div>
                 <div class="oo o_3">
-                    <img src="../img/s4_m3.png" alt="" />
+                    <img src="/img/s4_m3.png" alt="" />
                 </div>
                 <div class="oo o_4">
-                    <img src="../img/s4_m4.png" alt="" />
+                    <img src="/img/s4_m4.png" alt="" />
                 </div>
             </div>
 
@@ -228,7 +228,7 @@
                         <div class="swiper-slide">
                             <a href="program/main_stage.html">
                                 <div class="b">
-                                    <img src="../img/s4_ss01.jpg" alt="" />
+                                    <img src="/img/s4_ss01.jpg" alt="" />
                                 </div>
                                 <h2>MAIN<br />STAGE</h2>
                             </a>
@@ -236,7 +236,7 @@
                         <div class="swiper-slide">
                             <a href="program/sub_stage.html">
                                 <div class="b">
-                                    <img src="../img/s4_ss02.jpg" alt="" />
+                                    <img src="/img/s4_ss02.jpg" alt="" />
                                 </div>
                                 <h2>SUB<br />STAGE</h2>
                             </a>
@@ -244,7 +244,7 @@
                         <div class="swiper-slide">
                             <a href="program/side_event.html">
                                 <div class="b">
-                                    <img src="../img/s4_ss03.jpg" alt="" />
+                                    <img src="/img/s4_ss03.jpg" alt="" />
                                 </div>
                                 <h2>부대<br />프로그램</h2>
                             </a>
@@ -256,7 +256,7 @@
 
         <section class="s05">
             <div class="o">
-                <img src="../img/s5_m1.png" alt="" />
+                <img src="/img/s5_m1.png" alt="" />
             </div>
 
             <div class="wrap" max="1280">
@@ -279,7 +279,7 @@
                                 <dd></dd>
                             </dl>
                             <div class="arr">
-                                <img src="../img/icon/arrow_2_r.png" alt="" />
+                                <img src="/img/icon/arrow_2_r.png" alt="" />
                             </div>
                         </a>
                     </li>
@@ -297,7 +297,7 @@
                                 </dd>
                             </dl>
                             <div class="arr">
-                                <img src="../img/icon/arrow_2_r.png" alt="" />
+                                <img src="/img/icon/arrow_2_r.png" alt="" />
                             </div>
                         </a>
                     </li>
@@ -307,7 +307,7 @@
 
         <section class="s06">
             <div class="o">
-                <img src="../img/s6_m1.png" alt="" />
+                <img src="/img/s6_m1.png" alt="" />
             </div>
 
             <div class="wrap" max="1400">
@@ -350,7 +350,7 @@
 
     <footer>
         <div id="topBtn">
-            <img src="../img/icon/topBtnArrow.png" alt="" />
+            <img src="/img/icon/topBtnArrow.png" alt="" />
             TOP
         </div>
 
@@ -361,19 +361,19 @@
             <div class="sn">
                 <div class="fa snn">
                     <a href="https://www.facebook.com/seoulmusicfestival" target="_blank">
-                        <img src="../img/f_m1.png" alt="" />
+                        <img src="/img/f_m1.png" alt="" />
                     </a>
                 </div>
                 <div class="in snn">
                     <a href="https://www.instagram.com/seoulmusicfesta/" target="_blank">
-                        <img src="../img/f_m2.png" alt="" />
+                        <img src="/img/f_m2.png" alt="" />
                     </a>
                 </div>
             </div>
 
             <div class="c">
                 <div class="l">
-                    <img src="../img/logo/smf_logoW.png" alt="" />
+                    <img src="/img/logo/smf_logoW.png" alt="" />
                 </div>
 
                 <div class="rb">
@@ -466,7 +466,7 @@
                 <div class="circle">
                     <dl>
                         <dt>
-                            <img src="../img/icon/ticket_icon.png" alt="" />
+                            <img src="/img/icon/ticket_icon.png" alt="" />
                         </dt>
                         <dd>일반좌석<br />예약하기</dd>
                     </dl>
@@ -480,7 +480,7 @@
                 <div class="circle">
                     <dl>
                         <dt>
-                            <img src="../img/icon/ticket_icon.png" alt="" />
+                            <img src="/img/icon/ticket_icon.png" alt="" />
                         </dt>
                         <dd>피크닉석<br />예약하기</dd>
                     </dl>
@@ -501,9 +501,9 @@
         });
     </script>
 
-    <script src="../../cdn.jsdelivr.net/npm/swiper%408/swiper-bundle.min.js"></script>
-    <script src="../utils/plugin/gsap3/gsap.min.js"></script>
-    <script src="../js/m.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <script src="/utils/plugin/gsap3/gsap.min.js"></script>
+    <script src="/js/m.js"></script>
 
     <script>
         smf.init();

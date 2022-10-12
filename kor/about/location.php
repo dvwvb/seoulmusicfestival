@@ -1,30 +1,21 @@
 <!DOCTYPE html>
 <html lang="ko">
-
 <?php include "../_inc/config.php"; ?>
 
 <body>
-
     <?php include "../_inc/header.php"; ?>
-
     <main class="_location _sub __about">
-
         <div class="__subw">
             <div class="wave" style="background-image: url(../../img/w_wave_148.png);"></div>
         </div>
-
         <div class="wrap" max="1280">
-
             <?php include "../_inc/tabmenu.php"; ?>
-
             <h2 class="_tit" data-aos="fade-up">
                 노들섬 (서울특별시 용산구 양녕로 445)
             </h2>
-
             <div class="maps" data-aos="fade-up">
                 <div id="daumRoughmapContainer1662429907801" class="root_daum_roughmap root_daum_roughmap_landing"></div>
             </div>
-
             <div class="pub">
                 <h2 class="tit" data-aos="fade-up">대중교통 안내</h2>
                 <ul class="l">
@@ -88,9 +79,7 @@
             <p class="impor" data-aos="fade-up">※원활한 운영을 위해 차량을 통제하고 있으니, 대중교통 이용 부탁 드립니다.</p>
         </div>
     </main>
-
     <?php include "../_inc/footer.php"; ?>
-
 </body>
 
 </html>

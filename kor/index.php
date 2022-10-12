@@ -16,7 +16,6 @@
                     <img src="../img/s1_back02.png" alt="" />
                 </div>
             </div>
-
             <div class="firework">
                 <div class="f_01 ff">
                     <img src="../img/firework01.png" alt="" />
@@ -31,7 +30,6 @@
                     <img src="../img/firework04.png" alt="" />
                 </div>
             </div>
-
             <div class="b">
                 <div class="b_01 bb"></div>
                 <div class="b_02 bb"></div>
@@ -51,7 +49,6 @@
             <div class="w">
                 <div class="wave" style="background-image: url(../img/w_wave.png)"></div>
             </div>
-
             <dl class="tit">
                 <dt data-aos="fade-up" data-aos-anchor=".s02">
                     <img src="../img/s2_m2.png" alt="" />
@@ -61,7 +58,6 @@
                     개최됩니다.
                 </dd>
             </dl>
-
             <div class="wrap" max="1400">
                 <ul class="t">
                     <li data-aos="fade-up" data-aos-anchor=".s02 .tit">
@@ -134,11 +130,9 @@
                     <div class="l"></div>
                     <div class="r"></div>
                 </div>
-
                 <div class="f">
                     <!-- 안에 뭐 넣지마세영 -->
                 </div>
-
                 <div class="sbx">
                     <div class="swiper s">
                         <div class="swiper-wrapper">
@@ -149,19 +143,15 @@
                     </div>
                 </div>
             </div>
-
             <div class="ms" data-aos="fade-up">
                 <h2>
-                    <span>SMUF 2022</span>
-                    STAGE
+                    <span>SMUF 2022</span>STAGE
                 </h2>
-
                 <div class="ss">
                     <div class="arr">
                         <div class="la"></div>
                         <div class="ra"></div>
                     </div>
-
                     <div class="swiper s">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide b" style="background-image: url(../img/s3_ss01.jpg)">
@@ -648,7 +638,6 @@
             document.getElementById("IT_popup2").style.display = "none";
         }
     </script>
-
     <div id="IT_popup2" style="
         position: absolute;
         top: 200px;

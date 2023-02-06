@@ -201,6 +201,16 @@
         </div>
     </main>
     <?php include "../_inc/footer.php"; ?>
+    <script>
+        new Swiper('.se_slide', {
+            loop: true,
+            autoHeight: true,
+            navigation: {
+                nextEl: '._program.side_event .se_slide .btnlist .next',
+                prevEl: '._program.side_event .se_slide .btnlist .prev',
+            },
+        });
+    </script>
 </body>
 
 </html>

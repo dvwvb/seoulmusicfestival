@@ -28,9 +28,17 @@
                         <span>10/16</span><br>WONDERFUL STAGE
                     </a>
                 </li>
-
+            <?php } else if (strpos($_SERVER['REQUEST_URI'], "program") !== false) { ?>
+                <li class="on">
+                    <a href="/kor/program/main_stage.php">MAIN STAGE</a>
+                </li>
+                <li>
+                    <a href="/kor/program/sub_stage.php">SUB STAGE</a>
+                </li>
+                <li>
+                    <a href="/kor/program/side_event.php">부대 프로그램</a>
+                </li>
             <?php }; ?>
-
         </ul>
     </div>
 </div>

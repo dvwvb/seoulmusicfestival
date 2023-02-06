@@ -376,6 +376,21 @@
         </div>
     </main>
     <?php include "../_inc/footer.php"; ?>
+
+    <script>
+        subV('프로그램', 'MAIN STAGE');
+
+        new Swiper('.main_slide', {
+            loop: true,
+            autoHeight: true,
+            navigation: {
+                nextEl: '._program .main_slide .btnlist .next',
+                prevEl: '._program .main_slide .btnlist .prev',
+            },
+        });
+    </script>
+
+
 </body>
 
 </html>
